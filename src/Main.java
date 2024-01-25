@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("This is my Login Branch");
         System.out.println("This is today's change");
+        System.out.println("This is today's second change");
     }
 }
